@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the project code built as part of my participation in the # Udacity C++ Nanodegree program
+This repo contains the project code built as part of my participation in the Udacity C++ Nanodegree program
 
 <img src="map.png" width="600" height="450" />
 
